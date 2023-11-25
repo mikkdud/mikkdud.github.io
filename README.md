@@ -1,4 +1,4 @@
-# mikkdud.github.io
+# mikkdud.github.io 
 moja strona internetowa
 Cześć! Nazywam się [Twoje Imię] i witam Cię serdecznie na mojej stronie internetowej. Ta przestrzeń jest miejscem, gdzie dzielę się moimi pasjami, doświadczeniami i aspiracjami życiowymi.
 
