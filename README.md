@@ -1,6 +1,5 @@
 # mikkdud.github.io 
-moja strona internetowa
-Cześć! Nazywam się [Twoje Imię] i witam Cię serdecznie na mojej stronie internetowej. Ta przestrzeń jest miejscem, gdzie dzielę się moimi pasjami, doświadczeniami i aspiracjami życiowymi.
+Cześć! Nazywam się Mikołaj Dudkiewicz i witam Cię serdecznie na mojej stronie internetowej. Ta przestrzeń jest miejscem, gdzie dzielę się moimi pasjami, doświadczeniami i aspiracjami życiowymi.
 
 🎸 Miłośnik Gitary:
 Jestem zapalonym miłośnikiem muzyki, a zwłaszcza gry na gitarze. Znajdziesz tutaj różnorodne treści związane z muzyką, takie jak moje interpretacje ulubionych utworów, recenzje sprzętu muzycznego czy też rady dla początkujących gitarzystów.
